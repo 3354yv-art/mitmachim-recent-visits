@@ -15,4 +15,3 @@
 1. התקינו את [Tampermonkey](https://www.tampermonkey.net/)
 2. לחצו כאן: **[התקנת התוסף](https://github.com/3354yv-art/mitmachim-recent-visits/raw/main/mitmachim-recent-visits.user.js)**
 3. במסך שנפתח לחצו **Install**, ורעננו את מתמחים טופ
-# mitmachim-recent-visits
